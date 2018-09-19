@@ -16,6 +16,7 @@ public class Program {
     private String namaSaya;
     private String alamat;
     private String tempatLahir;
+    private String tanggalLahir;
     private String hobi;
     private String citaCita;
     private String noTelepon;
@@ -44,6 +45,10 @@ public class Program {
         return tempatLahir;
     }
 
+    public String getTanggalLahir() {
+        return tanggalLahir;
+    }
+    
     public String getHobi() {
         return hobi;
     }
@@ -80,6 +85,10 @@ public class Program {
         tempatLahir = newTempatLahir;
     }
 
+    public void setTanggalLahir(String newTanggalLahir) {
+        tanggalLahir = newTanggalLahir;
+    }
+    
     public void setHobi(String newHobi) {
         hobi = newHobi;
     }

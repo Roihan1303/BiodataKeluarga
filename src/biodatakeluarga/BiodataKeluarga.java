@@ -22,6 +22,7 @@ public class BiodataKeluarga {
         biodata.setNamaSaya("Roihan Farras Setyadi");
         biodata.setAlamat("Jl Cokroaminoto No.25 Kanigaran, Probolinggo");
         biodata.setTempatLahir("Probolinggo/13 Maret 2003");
+        biodata.setTanggalLahir("13 Maret 2003");
         biodata.setHobi("Olahraga");
         biodata.setCitaCita("Programmer");
         biodata.setNoTelepon("081294628199");
@@ -34,6 +35,7 @@ public class BiodataKeluarga {
         System.out.println("Nama Saya       : " + biodata.getNamaSaya());
         System.out.println("Alamat          : " + biodata.getAlamat());
         System.out.println("Tempat Lahir    : " + biodata.getTempatLahir());
+        System.out.println("Tanggal Lahir   : " + biodata.getTanggalLahir());
         System.out.println("Hobi            : " + biodata.getHobi());
         System.out.println("Cita-Cita       : " + biodata.getCitaCita());
         System.out.println("No Telepon      : " + biodata.getNoTelepon());
