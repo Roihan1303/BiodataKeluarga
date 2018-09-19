@@ -20,8 +20,8 @@ public class BiodataKeluarga {
         biodata.setNamaIbu("Dieta Fauziyah");
         biodata.setNamaSaudara("Favian Reswara Setyadi");
         biodata.setNamaSaya("Roihan Farras Setyadi");
-        biodata.setAlamat("Jl Danau Ranau XII G6/D1");
-        biodata.setTempatLahir("Probolinggo");
+        biodata.setAlamat("Jl Cokroaminoto No.25 Kanigaran, Probolinggo");
+        biodata.setTempatLahir("Probolinggo/13 Maret 2003");
         biodata.setHobi("Olahraga");
         biodata.setCitaCita("Programmer");
         biodata.setNoTelepon("081294628199");
